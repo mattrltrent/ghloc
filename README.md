@@ -12,7 +12,7 @@ This scans all your repositories and aggregates your commit data (`ghloc stats`)
 To install, run:
 
 ```sh
-TODO: installation
+brew tap mattrltrent/tap ; brew install ghloc
 ```
 
 To verify installation, run:
