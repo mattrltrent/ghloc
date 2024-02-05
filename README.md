@@ -1,4 +1,6 @@
-## GitHub LOC counter: `ghloc`
+# GitHub LOC counter: `ghloc`
+
+[Blog post](https://matthewtrent.me/articles/ghloc) covering its creation 📚
 
 ### Example output
 
